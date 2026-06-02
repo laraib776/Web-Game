@@ -1,4 +1,4 @@
-# Web-Game# 
+# Web-Game
 
 ## Status: ✅ Landing Page COMPLETE | 🎮 Game Core 80% | Questions Next
 
@@ -31,12 +31,6 @@
 - [ ] Per-char level tweaks
 
 **Live:** http://localhost:3000/Untitled-2.html (hover circles → popup → levels → play!)
-
-**Console:** F12 → see init logs. Refresh to test.
-
-Proceed to #4 Questions integration?
-
----
 
 ## BUG FIXES - IN PROGRESS
 
